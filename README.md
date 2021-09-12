@@ -1,5 +1,5 @@
 <h1 style="font-size:10vw;">youtube block filter for DESKTOP</h1>
-<p style="font-size:6vw;">
+<p style="font-size:11vw;">
 2 ways<br/>
 1st goes with "brave"<br/>
 2nd goes with "ublock origin"<br/>
