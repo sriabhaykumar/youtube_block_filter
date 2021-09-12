@@ -1,4 +1,4 @@
-# youtube block filter for DESKTOP
+# YOUTUBE BLOCK FILTER FOR DESKTOP
 
 2 ways<br/>
 1st goes with "brave"<br/>
