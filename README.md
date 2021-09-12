@@ -1,6 +1,4 @@
 # youtube_block_filter for DESKTOP
-youtube block filter
-
 
 2 ways<br/>
 1st goes with "brave"<br/>
@@ -32,5 +30,7 @@ you can edit those txt as your comfort<br/>
 i also have named them so you can navigate<br/>
 i did this so you don't have to waste your time<br/>
 
-
+@settings {
+  font-size: 100;
+}
 Ba Bye!
