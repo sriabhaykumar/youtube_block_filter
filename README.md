@@ -1,9 +1,10 @@
 # youtube_block_filter for DESKTOP
 youtube block filter
 
-2 ways
-1st goes with "brave"
-2nd goes with "ublock origin"
+
+2 ways<br/>
+1st goes with "brave"<br/>
+2nd goes with "ublock origin"<br/>
 
 1st (brave)
 
@@ -15,7 +16,7 @@ youtube block filter
         paste those txt in "Custom Filters"
   DONE!
   
-  
+  <br/>
   
 2nd (ublock origin)
 
@@ -27,9 +28,9 @@ youtube block filter
   DONE!
   
   
-you can edit those txt as your comfort
-i also have named them so you can navigate
-i did this so you don't have to waste your time
+you can edit those txt as your comfort<br/>
+i also have named them so you can navigate<br/>
+i did this so you don't have to waste your time<br/>
 
 
 Ba Bye!
