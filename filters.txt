@@ -1,18 +1,53 @@
-www.youtube.com###related
-www.youtube.com##.ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-blue-text.ytd-button-renderer.style-scope
-www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope
-www.youtube.com##.ytd-popup-container.style-scope > .yt-tooltip-renderer.style-scope
-www.youtube.com##.tp-yt-app-drawer.style-scope
-www.youtube.com##.ytd-popup-container.style-scope > .yt-bubble-hint-renderer.style-scope
-www.youtube.com###sponsor-button
-www.youtube.com###buttons > .ytd-c4-tabbed-header-renderer.style-scope
+! side bar
+www.youtube.com###guide-inner-content
+
+! logo
 www.youtube.com###start
-www.youtube.com##.size-default.style-destructive.ytd-video-secondary-info-renderer.style-scope
-www.youtube.com###sections
-www.youtube.com###menu-container > .ytd-video-primary-info-renderer.style-scope
-www.youtube.com###end > .ytd-masthead.style-scope
-www.youtube.com##.size-default.style-grey-text.ytd-playlist-panel-renderer.style-scope > .ytd-toggle-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-grey-text.ytd-toggle-button-renderer.style-scope
-www.youtube.com###expand-button
-www.youtube.com###voice-search-button > .size-default.style-default.ytd-masthead.style-scope > .ytd-button-renderer.style-scope.yt-simple-endpoint
-www.youtube.com##.ytd-rich-grid-renderer.style-scope
+
+! sign_in button
+www.youtube.com##.ytd-button-renderer.style-scope.yt-simple-endpoint > .size-small.style-suggestive.ytd-button-renderer.style-scope
+
+! yt tv/kids/ar. selection menu
+www.youtube.com##ytd-topbar-menu-button-renderer.style-default.ytd-masthead.style-scope:nth-of-type(1)
+
+! voice search button
 www.youtube.com###voice-search-button
+
+! branding
+www.youtube.com##.iv-branding.annotation-type-custom.annotation
+
+!join button
+www.youtube.com###sponsor-button
+
+! like/dislike/share button
+www.youtube.com###menu-container > .ytd-video-primary-info-renderer.style-scope
+
+! subscribe button
+www.youtube.com###subscribe-button
+
+! next
+www.youtube.com##.ytp-left-controls > .ytp-button.ytp-next-button
+
+! prev.
+www.youtube.com##.ytp-button.ytp-prev-button
+
+! fullscreen(f)
+www.youtube.com##.ytp-button.ytp-fullscreen-button
+
+! theater mode(t)
+www.youtube.com##.ytp-button.ytp-size-button
+
+! miniplayer(i)
+www.youtube.com##.ytp-button.ytp-miniplayer-button
+
+! home recom.
+www.youtube.com##.ytd-rich-grid-renderer.style-scope
+
+! watch-next recom.
+www.youtube.com##ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style-scope
+
+! endscreen recom.
+www.youtube.com##.ytp-show-tiles.videowall-endscreen.ytp-player-content.html5-endscreen
+
+! creepy comments
+www.youtube.com###comments
