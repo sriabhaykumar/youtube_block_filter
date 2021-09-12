@@ -1,0 +1,18 @@
+www.youtube.com###related
+www.youtube.com##.ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-blue-text.ytd-button-renderer.style-scope
+www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope
+www.youtube.com##.ytd-popup-container.style-scope > .yt-tooltip-renderer.style-scope
+www.youtube.com##.tp-yt-app-drawer.style-scope
+www.youtube.com##.ytd-popup-container.style-scope > .yt-bubble-hint-renderer.style-scope
+www.youtube.com###sponsor-button
+www.youtube.com###buttons > .ytd-c4-tabbed-header-renderer.style-scope
+www.youtube.com###start
+www.youtube.com##.size-default.style-destructive.ytd-video-secondary-info-renderer.style-scope
+www.youtube.com###sections
+www.youtube.com###menu-container > .ytd-video-primary-info-renderer.style-scope
+www.youtube.com###end > .ytd-masthead.style-scope
+www.youtube.com##.size-default.style-grey-text.ytd-playlist-panel-renderer.style-scope > .ytd-toggle-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-grey-text.ytd-toggle-button-renderer.style-scope
+www.youtube.com###expand-button
+www.youtube.com###voice-search-button > .size-default.style-default.ytd-masthead.style-scope > .ytd-button-renderer.style-scope.yt-simple-endpoint
+www.youtube.com##.ytd-rich-grid-renderer.style-scope
+www.youtube.com###voice-search-button
