@@ -1,5 +1,8 @@
-! side bar
+! big side bar
 www.youtube.com###guide-inner-content
+
+! small side bar
+www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
 
 ! logo
 www.youtube.com###start
