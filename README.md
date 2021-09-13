@@ -4,6 +4,8 @@
 1st goes with "brave"<br/>
 2nd goes with "ublock origin"<br/>
 
+but first open "filters.txt" up there.</br>
+
 # 1st (brave)
 
 
